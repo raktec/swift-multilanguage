@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  MultiLang
+
+  Created by Rakesh Kumar Sharma on 28/12/17.
+  Copyright © 2017 Rakesh Kumar Sharma. All rights reserved.
+*/
+"txtwelcome" = "Bienvenue";
+"langtitle" = "Choisissez la langue";
+"langenglish" = "Anglais";
+"langfrench" = "français";
+"langportugal" = "le Portugal";
